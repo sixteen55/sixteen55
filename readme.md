@@ -1,7 +1,8 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: Kertpong Pongananpanya
+- ⚡ Student id: 63360637
+- 📜 programming with languages:
 - 🔭 I'm currently studying on Faculty of Engineering.
 
 ## Developer Tech
