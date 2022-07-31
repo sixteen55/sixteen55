@@ -2,7 +2,7 @@
 
 - 😄 My name is: Kertpong Pongananpanya
 - ⚡ Student id: 63360637
-- 📜 programming with languages:
+- 📜 programming with languages:![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - 🔭 I'm currently studying on Faculty of Engineering.
 
 ## Developer Tech
